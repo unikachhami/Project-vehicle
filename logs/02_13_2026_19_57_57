@@ -1,0 +1,2 @@
+2026-02-13 19:57:57,691 - root - INFO - unsupported operand type(s) for /: 'int' and 'str'
+2026-02-13 19:57:57,692 - root - ERROR - Error occurred in python script: [C:\Users\ACER\OneDrive\Desktop\Data Science\Project-vehicle\demo.py] at the line number [7]: unsupported operand type(s) for /: 'int' and 'str'
