@@ -10,7 +10,7 @@ from from_root import from_root
 
 
 LOG_DIR = 'logs'
-LOG_FILE = f'{datetime.now().strftime('%m_%d_%Y_%H_%M_%S')}'
+LOG_FILE = f"{datetime.now().strftime('%m_%d_%Y_%H_%M_%S')}"
 max_log_size = 5 * 1024 * 1024
 BACKUP_COUNT = 3
 
